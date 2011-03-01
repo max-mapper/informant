@@ -1,0 +1,9 @@
+[submodule "css3buttons"]
+	path = css3buttons
+	url = https://github.com/michenriksen/css3buttons.git
+[submodule "uniform"]
+	path = uniform
+	url = https://github.com/pixelmatrix/uniform.git
+[submodule "jquery.dform"]
+	path = jquery.dform
+	url = https://github.com/daffl/jquery.dform.git
