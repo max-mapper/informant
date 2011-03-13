@@ -7,3 +7,6 @@
 [submodule "jquery.dform"]
 	path = jquery.dform
 	url = https://github.com/daffl/jquery.dform.git
+[submodule "js-beautify"]
+	path = js-beautify
+	url = https://github.com/einars/js-beautify.git
